@@ -143,16 +143,11 @@
         <mxCell id="20" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="10" target="18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gteCs93AIMTxAtripR4i-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gteCs93AIMTxAtripR4i-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gteCs93AIMTxAtripR4i-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="164.5" y="720" width="285.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gteCs93AIMTxAtripR4i-42" value="thread" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="164.5" y="720" width="285.5" height="50" as="geometry" />
+        <mxCell id="gteCs93AIMTxAtripR4i-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
