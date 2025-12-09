@@ -41,10 +41,10 @@
           <mxGeometry x="640" y="124" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-57" value="业务公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-58" value="产品管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-60" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="109" width="640" height="90" as="geometry" />
