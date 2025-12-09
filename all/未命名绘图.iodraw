@@ -13,8 +13,8 @@
         <mxCell id="wkfDmeWCZi24vwbDmHc3-43" value="产品业务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wkfDmeWCZi24vwbDmHc3-44" value="管理后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="wkfDmeWCZi24vwbDmHc3-44" value="订单列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-45" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="210" width="120" height="60" as="geometry" />
