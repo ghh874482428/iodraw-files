@@ -26,7 +26,7 @@
           <mxGeometry x="190" y="353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-49" value="视频彩铃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="120" height="50" as="geometry" />
+          <mxGeometry x="400" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-50" value="400电话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="40" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="405" y="353" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-54" value="铃音录制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-56" value="管理后台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="124" width="120" height="60" as="geometry" />
