@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wkfDmeWCZi24vwbDmHc3-41" value="渠道平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wkfDmeWCZi24vwbDmHc3-41" value="渠道平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="30" width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-42" value="渠道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-58" value="产品管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wkfDmeWCZi24vwbDmHc3-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
