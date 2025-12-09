@@ -37,7 +37,7 @@
         <mxCell id="wkfDmeWCZi24vwbDmHc3-54" value="铃音录制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wkfDmeWCZi24vwbDmHc3-56" value="管理后台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wkfDmeWCZi24vwbDmHc3-56" value="管理后台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-57" value="业务公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
           <mxGeometry x="640" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-60" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="490" width="640" height="90" as="geometry" />
+          <mxGeometry x="110" y="360" width="640" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
