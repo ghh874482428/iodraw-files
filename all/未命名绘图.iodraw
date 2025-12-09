@@ -7,8 +7,8 @@
         <mxCell id="wkfDmeWCZi24vwbDmHc3-41" value="渠道平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wkfDmeWCZi24vwbDmHc3-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="wkfDmeWCZi24vwbDmHc3-42" value="渠道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
