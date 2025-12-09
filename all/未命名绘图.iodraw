@@ -23,7 +23,7 @@
           <mxGeometry x="190" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-47" value="菜单权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="353" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="353" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-49" value="视频彩铃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="120" height="40" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="400" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-52" value="号码认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="349" width="110" height="40" as="geometry" />
+          <mxGeometry x="400" y="349" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-54" value="铃音录制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="413" width="120" height="40" as="geometry" />
