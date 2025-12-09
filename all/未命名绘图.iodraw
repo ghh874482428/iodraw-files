@@ -22,11 +22,8 @@
         <mxCell id="wkfDmeWCZi24vwbDmHc3-46" value="佣金配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wkfDmeWCZi24vwbDmHc3-47" value="支付流水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wkfDmeWCZi24vwbDmHc3-47" value="菜单权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="353" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wkfDmeWCZi24vwbDmHc3-48" value="支付流水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wkfDmeWCZi24vwbDmHc3-49" value="视频彩铃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
